@@ -7,18 +7,41 @@
   "packages": [
     {
       "kind": "patch",
-      "identifier": "com.timomod.demo.cleaner",
+      "identifier": "com.k3ndzy.timomod.clean-ui",
       "name": "Clean UI Patch",
       "author": "TIMO MOD",
       "version": "1.0.0",
       "summary": "A clean and minimal UI patch for better app experience",
-      "description": "This patch provides a cleaner interface with reduced visual clutter and improved readability.",
-      "icon": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/icons/clean-ui.png",
-      "downloadURL": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/packages/clean-ui-patch-v1.0.0.timo",
+      "description": "This patch provides a cleaner interface with reduced visual clutter and improved readability. Perfect for users who prefer a minimalist design approach.",
+      "category": "Interface",
+      "tags": ["UI", "Clean", "Minimal", "Interface"],
+      "icon": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD/main/docs/images/app-icon.png",
+      "downloadURL": "https://github.com/k3ndzy/TIMOMOD/raw/main/downloads/imazing-apps/MOD%20DC.imazingapp",
       "bundleIdentifier": "com.apple.Preferences",
-      "size": 2048,
+      "size": 172520,
       "minimumOSVersion": "15.0",
-      "maximumOSVersion": "18.1"
+      "maximumOSVersion": "18.7.1",
+      "publishedAt": "2024-09-08T10:30:00Z",
+      "isFeatured": true
+    },
+    {
+      "kind": "patch", 
+      "identifier": "com.k3ndzy.timomod.mod-dc",
+      "name": "MOD DC Discord",
+      "author": "TIMO MOD",
+      "version": "1.0.0",
+      "summary": "Modified Discord app with enhanced features",
+      "description": "Enhanced Discord client with additional functionality and improved user experience. Download as .imazingapp format for easy installation.",
+      "category": "Communication",
+      "tags": ["Discord", "Mod", "Communication", "Social"],
+      "icon": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD/main/docs/images/app-icon.png",
+      "downloadURL": "https://github.com/k3ndzy/TIMOMOD/raw/main/downloads/imazing-apps/MOD%20DC.imazingapp",
+      "bundleIdentifier": "com.hammerandchisel.discord", 
+      "size": 172520,
+      "minimumOSVersion": "13.0",
+      "maximumOSVersion": "18.7.1",
+      "publishedAt": "2024-09-08T10:00:00Z",
+      "isFeatured": true
     }
   ]
 }
