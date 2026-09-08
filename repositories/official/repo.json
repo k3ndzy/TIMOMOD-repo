@@ -2,37 +2,36 @@
   "schemaVersion": 1,
   "identifier": "com.k3ndzy.official",
   "name": "TIMO MOD Official Repository", 
-  "summary": "Official source for TIMO MOD tweaks, patches, and wallpapers",
+  "description": "Official source for TIMO MOD tweaks, patches, and wallpapers",
   "icon": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/icons/timomod-icon.png",
   "packages": [
     {
-      "kind": "patch",
       "identifier": "com.k3ndzy.timomod.mod-dc",
+      "kind": "patch",
       "name": "MOD DC Discord",
       "author": "TIMO MOD",
       "version": "1.0.0", 
       "summary": "Modified Discord app with enhanced features",
-      "details": "Enhanced Discord client with additional functionality and improved user experience. Download as .timo patch file for TIMO MOD installation.",
+      "description": "Enhanced Discord client with additional functionality and improved user experience. Download as .timo patch file for TIMO MOD installation.",
       "category": "Communication",
       "tags": ["Discord", "Mod", "Communication", "Social"],
       "publishedAt": null,
-      "iconURL": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/icons/timomod-icon.png",
-      "bannerURL": null,
-      "screenshotURLs": [],
-      "downloadURL": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/packages/mod-dc-discord.timo",
+      "icon": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/icons/timomod-icon.png",
+      "banner": null,
+      "screenshots": [],
+      "download": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/packages/mod-dc-discord.timo",
       "sha256": null,
-      "expectedSize": 172520,
+      "size": 172520,
       "supportedOS": [
         {
           "minimum": "13.0",
-          "maximum": "18.7.1", 
-          "builds": null
+          "maximum": "18.7.1"
         }
       ],
       "changelog": null,
-      "isFeatured": true,
+      "featured": true,
       "isPrivate": false,
-      "sharedPassword": null
+      "password": null
     }
   ]
 }
