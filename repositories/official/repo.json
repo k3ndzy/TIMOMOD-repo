@@ -1,31 +1,32 @@
 {
   "schemaVersion": 1,
   "identifier": "com.k3ndzy.official",
-  "name": "TIMO MOD Official Repository", 
+  "name": "TIMO MOD Official Repository",
   "description": "Official source for TIMO MOD tweaks, patches, and wallpapers",
-  "icon": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/icons/timomod-icon.png",
+  "icon": null,
   "packages": [
     {
       "identifier": "com.k3ndzy.timomod.mod-dc",
       "kind": "patch",
       "name": "MOD DC Discord",
       "author": "TIMO MOD",
-      "version": "1.0.0", 
+      "version": "1.0.0",
       "summary": "Modified Discord app with enhanced features",
-      "description": "Enhanced Discord client with additional functionality and improved user experience. Download as .timo patch file for TIMO MOD installation.",
+      "description": "Enhanced Discord client with additional functionality and improved user experience.",
       "category": "Communication",
       "tags": ["Discord", "Mod", "Communication", "Social"],
       "publishedAt": null,
-      "icon": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/icons/timomod-icon.png",
+      "icon": null,
       "banner": null,
       "screenshots": [],
       "download": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/packages/mod-dc-discord.timo",
-      "sha256": null,
+      "sha256": "5eebe89be3625cb2a7db891c7a9bedb3d3eb8b8b0579801946df679292a03738",
       "size": 172520,
       "supportedOS": [
         {
           "minimum": "13.0",
-          "maximum": "18.7.1"
+          "maximum": "18.7.1",
+          "builds": null
         }
       ],
       "changelog": null,
