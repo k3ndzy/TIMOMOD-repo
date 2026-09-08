@@ -6,26 +6,27 @@
   "icon": null,
   "packages": [
     {
-      "identifier": "test.package",
+      "identifier": "timomod.testpackage", 
       "kind": "patch",
-      "name": "Test Package",
-      "author": "Test",
+      "name": "TIMO Test Package",
+      "author": "TIMO MOD Team",
       "version": "1.0.0", 
-      "summary": "Test package",
-      "description": "Test description",
-      "category": "Test",
-      "tags": ["Test"],
+      "summary": "Test package for debugging",
+      "description": "Test description for debugging repository validation",
+      "category": "Tweaks",
+      "tags": ["test"],
       "publishedAt": null,
       "icon": null,
-      "banner": null,
-      "screenshots": [],
+      "banner": null, 
+      "screenshots": null,
       "download": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/packages/mod-dc-discord.timo",
       "sha256": null,
       "size": null,
       "supportedOS": [
         {
           "minimum": "15.0",
-          "maximum": "18.0"
+          "maximum": "18.0",
+          "builds": null
         }
       ],
       "changelog": null,
