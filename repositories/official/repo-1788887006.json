@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "identifier": "com.k3ndzy.official",
+  "name": "TIMO MOD Test Repository", 
+  "description": "Test repository",
+  "icon": null,
+  "packages": [
+    {
+      "identifier": "test.package",
+      "kind": "patch",
+      "name": "Test Package",
+      "author": "Test",
+      "version": "1.0.0", 
+      "summary": "Test package",
+      "description": "Test description",
+      "category": "Test",
+      "tags": ["Test"],
+      "publishedAt": null,
+      "icon": null,
+      "banner": null,
+      "screenshots": [],
+      "download": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/packages/mod-dc-discord.timo",
+      "sha256": null,
+      "size": null,
+      "supportedOS": [
+        {
+          "minimum": "15.0",
+          "maximum": "18.0"
+        }
+      ],
+      "changelog": null,
+      "featured": false,
+      "isPrivate": false,
+      "password": null
+    }
+  ]
+}
