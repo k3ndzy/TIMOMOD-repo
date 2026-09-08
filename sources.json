@@ -1,0 +1,11 @@
+{
+  "formatVersion": 1,
+  "sources": [
+    {
+      "id": "com.k3ndzy.official",
+      "url": "https://raw.githubusercontent.com/k3ndzy/TIMOMOD-repo/main/repositories/official/repo.json",
+      "name": "TIMO MOD Official",
+      "summary": "Official repository for TIMO MOD tweaks and wallpapers"
+    }
+  ]
+}
